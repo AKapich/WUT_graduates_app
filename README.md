@@ -1,4 +1,4 @@
-# # [WUT graduates app](https://alekskapich.shinyapps.io/graduates/?_ga=2.255003080.1323394866.1675861184-1768830761.1670633353)
+# [WUT graduates app](https://alekskapich.shinyapps.io/graduates/?_ga=2.255003080.1323394866.1675861184-1768830761.1670633353)
 Shiny app providing charts depicting data related to salary of WUT graduates.
 
 Consists of 2 tabs:
